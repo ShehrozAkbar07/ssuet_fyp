@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "719289676929",
+    "project_id": "autismconnect-79aad",
+    "storage_bucket": "autismconnect-79aad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719289676929:android:252595735318315726c980",
+        "android_client_info": {
+          "package_name": "com.example.fyp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCesgLbFq9KBWsVV6gJ953ilEuV2osA94E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
